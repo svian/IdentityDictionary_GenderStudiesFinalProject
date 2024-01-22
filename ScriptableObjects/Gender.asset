@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24c2e88774135534897cf22d1d3000a1, type: 3}
+  m_Name: Gender
+  m_EditorClassIdentifier: 
+  labelList:
+  - Select
+  - Cisgender
+  - Transgender
+  - Nonbinary
+  - Genderfluid
+  - Agender
+  - Queer
+  - Bigender
+  - Polygender
+  - Two Spirit
+  - Gender Apathetic
+  - Intergender
+  - Androgyne
+  - Demigender
+  - Greygender
+  - Aporagender
+  flagList:
+  - {fileID: 21300000, guid: 8f66c60fb167a0f4299a9865ef4badc9, type: 3}
+  - {fileID: 21300000, guid: a8befd5529537be459a238c9bd0c0636, type: 3}
+  - {fileID: 21300000, guid: 5eb302f96fb5533499e5e5bb41b6f91c, type: 3}
+  - {fileID: 21300000, guid: 86216382111d23749888785dddf6cd57, type: 3}
+  - {fileID: 21300000, guid: 702972e4f0185b142ae0d1c5d7f6b54a, type: 3}
+  - {fileID: 21300000, guid: 2b434b61ca13fae4e8eb36298b35bd3d, type: 3}
+  - {fileID: 21300000, guid: f4b438880a7083544a78d2b064cf316d, type: 3}
+  - {fileID: 21300000, guid: 83537ab417d74824da87d28599a388a4, type: 3}
+  - {fileID: 21300000, guid: cacbb94529c74cc4aa954512f6f01d2b, type: 3}
+  - {fileID: 21300000, guid: ebde5ca8ba82b81408262457583bc437, type: 3}
+  - {fileID: 21300000, guid: d7970ae80bab27c4c95457f7e52800fa, type: 3}
+  - {fileID: 21300000, guid: cb077c92e4bf5544bb86dd99e0f3d48e, type: 3}
+  - {fileID: 21300000, guid: e82cec5cb9d02034495e58934926e94c, type: 3}
+  - {fileID: 21300000, guid: b2730ae28fbdcce4a9b666348a4bc0ff, type: 3}
+  - {fileID: 21300000, guid: 5c513850351c3344092d649f5c0f3909, type: 3}
+  - {fileID: 21300000, guid: f16d02e79b7e59a438cdc8659441bf0a, type: 3}
+  - {fileID: 21300000, guid: 82584dcfc366bac42b3c016c9f962419, type: 3}

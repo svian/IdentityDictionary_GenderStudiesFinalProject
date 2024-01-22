@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24c2e88774135534897cf22d1d3000a1, type: 3}
+  m_Name: Sexuality
+  m_EditorClassIdentifier: 
+  labelList:
+  - Select
+  - Heterosexual
+  - Homosexual
+  - Lesbian
+  - Bisexual
+  - Pansexual
+  - Asexual
+  - Bicurious
+  - Polysexual
+  - Monosexual
+  - Allosexual
+  - Queer
+  - Androsexual
+  - Gynesexual
+  - Demisexual
+  - Greysexual
+  - Aegosexual
+  flagList:
+  - {fileID: 21300000, guid: 8f66c60fb167a0f4299a9865ef4badc9, type: 3}
+  - {fileID: 21300000, guid: fd545285a10f99a408b8d4e357e28fe7, type: 3}
+  - {fileID: 21300000, guid: f4b438880a7083544a78d2b064cf316d, type: 3}
+  - {fileID: 21300000, guid: a0149dbf57d7a0d48a26d9304c76d08f, type: 3}
+  - {fileID: 21300000, guid: e93bf38c164b5ad4dac51e99cd002128, type: 3}
+  - {fileID: 21300000, guid: ae9dc43b1559782429dc099a694a25d9, type: 3}
+  - {fileID: 21300000, guid: 4105bce09b2f14548a148b7779b2a1c9, type: 3}
+  - {fileID: 21300000, guid: 4deaf6439f34b1046885cfa314d0470d, type: 3}
+  - {fileID: 21300000, guid: d7507a8693d08da4da80cdad7125e18c, type: 3}
+  - {fileID: 21300000, guid: a18d3bf968f467e478555ceead155d6e, type: 3}
+  - {fileID: 21300000, guid: 1c4eb73d0c82b884098ee0159ee646e3, type: 3}
+  - {fileID: 21300000, guid: f4b438880a7083544a78d2b064cf316d, type: 3}
+  - {fileID: 21300000, guid: f91d1f48da9175442a549cb20108f425, type: 3}
+  - {fileID: 21300000, guid: b64596be38566bc48b7481747c36a4f2, type: 3}
+  - {fileID: 21300000, guid: fad0cef4e993c0a4da48949049d8c582, type: 3}
+  - {fileID: 21300000, guid: 9693d272d3af8d641bb59e16cdf08718, type: 3}
+  - {fileID: 21300000, guid: 73932d5965cb67343add6986f4acb9dd, type: 3}

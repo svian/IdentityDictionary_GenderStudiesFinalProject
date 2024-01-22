@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24c2e88774135534897cf22d1d3000a1, type: 3}
+  m_Name: Romantic
+  m_EditorClassIdentifier: 
+  labelList:
+  - Select
+  - Heteroromantic
+  - Homoromantic
+  - Biromantic
+  - Panromantic
+  - Aromantic
+  - Polyromantic
+  - Monoromantic
+  - Alloromantic
+  - Queer
+  - Androromantic
+  - Gyneromantic
+  - Demiromantic
+  - Greyromantic
+  - Aegoromantic
+  flagList:
+  - {fileID: 21300000, guid: 8f66c60fb167a0f4299a9865ef4badc9, type: 3}
+  - {fileID: 21300000, guid: b41db01ddb8dcab4c9deaecbde138a2a, type: 3}
+  - {fileID: 21300000, guid: 43863d900767b0f4ea9bb4c663a9e2d7, type: 3}
+  - {fileID: 21300000, guid: d7e0417b38179374795a9b5de75ad400, type: 3}
+  - {fileID: 21300000, guid: 18d66eba2fbaa4f4c978b3f2536e9817, type: 3}
+  - {fileID: 21300000, guid: acf9a9c877432214fa508393315a66c9, type: 3}
+  - {fileID: 21300000, guid: e4ece1ef65d3d4c4d93b307b9b54b0db, type: 3}
+  - {fileID: 21300000, guid: 1c9772563e41dd94db9de5e2acd70370, type: 3}
+  - {fileID: 21300000, guid: 9b0d5caa4becdb6458d86568fb286663, type: 3}
+  - {fileID: 21300000, guid: f4b438880a7083544a78d2b064cf316d, type: 3}
+  - {fileID: 21300000, guid: a4eae4b49555bc94987b476d722ec25c, type: 3}
+  - {fileID: 21300000, guid: e93515bbc77c6b84b9487e3db56d0435, type: 3}
+  - {fileID: 21300000, guid: e042d99867a8ad4438c2416efc78bfce, type: 3}
+  - {fileID: 21300000, guid: 4ea0c1fb1a3c6cb4ab111fe925dc95b4, type: 3}
+  - {fileID: 21300000, guid: dd92f06d990acfd4cb7f2b1fc7d6e8f0, type: 3}
